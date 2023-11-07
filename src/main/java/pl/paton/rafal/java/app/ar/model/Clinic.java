@@ -20,7 +20,6 @@ public class Clinic {
     // clients
 
     public boolean registerClient(Client client) {
-        //System.out.println("Registering client");
         if (client != null) {
             return true;
         }
