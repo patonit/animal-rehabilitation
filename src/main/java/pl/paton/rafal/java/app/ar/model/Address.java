@@ -44,7 +44,7 @@ public class Address {
             System.out.println("Address is valid!");
             return true;
         }
-        System.out.println("Address is invalid!");
+        System.out.println("Address is invalid! Please enter valid address!");
         return false;
     }
 
